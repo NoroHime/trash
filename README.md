@@ -1,3 +1,2 @@
 # trash
-change everything 
-thirdparty modify
+not everything have to readme needed
